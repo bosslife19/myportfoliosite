@@ -308,7 +308,7 @@ section .title::after{
     width: 100%;
     height: 500px;
     transition: all 0.3s ease;
-    object-fit: contain;
+    object-fit: cover;
 }
 .projects{
     background: #111;
